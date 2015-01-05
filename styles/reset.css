@@ -69,3 +69,81 @@ input:invalid, textarea:invalid { background-color: #f0dddd; }
 table { border-collapse: collapse; border-spacing: 0; width: 100%; }
 td { vertical-align: top; }
 
+
+* {
+  vertical-align: baseline;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: 100%;
+  border: none;
+  padding: 0;
+  margin: 0;
+  outline: none;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6, p, pre, blockquote, form, ul, ol, dl {
+  margin: 0px;
+}
+
+li, dd, blockquote {
+  margin-left: 20px;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+article, aside, dialog, figure, footer, header, hgroup, nav, section {
+  display: block;
+}
+
+nav li, nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+li, ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+q:before, q:after {
+  content: "";
+}
+
+a {
+  color: #439fda;
+  text-decoration: none;
+  &:hover {
+    color: #39a0f1;
+  }
+  &:active {
+    color: #439fda;
+  }
+  &:visited {
+    color: #439fda;
+  }
+}
+
+input:focus, textarea:focus, select:focus, button:focus {
+  outline: none;
+  color: #111111;
+}
+
+.left {
+  float: left !important;
+}
+
+.right {
+  float: right !important;
+}
+
+.clear {
+  clear: both;
+}
