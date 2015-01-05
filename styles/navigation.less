@@ -1,0 +1,85 @@
+.getlua {
+  #header-sticky.small {
+    border-top: 1px solid white;
+    // background: asset-url('white90.png', image)
+    // @include shadow(0px 2px 3px rgba(0,0,0,0.1))
+ 
+  }
+  #header-sticky {
+    max-width: 1400px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    min-height: 57px;
+    color: black;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+    box-sizing: border-box;
+    background: rgba(253, 253, 253, 0.95) !important;
+    @include shadow(0px 2px 2px rgba(0, 0, 0, 0.2));
+    .lua-btn:last-of-type {
+      margin-right: 10px;
+    }
+    .logo {
+      width: 71px;
+      float: left;
+      margin-top: 7px;
+      margin-left: 5px;
+    }
+    h2 {
+      font-weight: normal;
+      text-align: center;
+      padding-bottom: 10px;
+    }
+    ul.nav {
+      float: right;
+      li.nav-link {
+        padding-bottom: 2px;
+        padding: 20px 15px 0;
+        .dropdown-menu {
+          right: auto;
+          margin: 11px 0 0 -1px;
+          @include rounded(0 0 3px 3px);
+          li {
+            float: none;
+            a {
+              font-size: 15px;
+              color: black;
+              padding: 9px 20px;
+            }
+          }
+        }
+        a.dd-title {
+          font-size: 14px;
+          cursor: pointer;
+          color: black;
+          border-bottom: 1px solid transparent;
+          padding: 0px;
+          background-color: transparent !important;
+          @include transition(border-bottom 200ms ease-out);
+        }
+        &:hover {
+          a.dd-title {
+            border-bottom: 1px solid $red;
+          }
+        }
+        &:active {
+          color: $red;
+        }
+      }
+    }
+    .lua-btn {
+      float: right;
+      margin: 8px 0 0 0;
+    }
+    .lua-btn#get-lua-btn {
+      padding: 3px 23px 1px;
+      line-height: 16px;
+      span {
+        font-size: 12px;
+        color: #f2f3f5;
+      }
+    }
+  }
+}
