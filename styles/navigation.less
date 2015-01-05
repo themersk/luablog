@@ -52,8 +52,12 @@
           border-bottom: 1px solid transparent;
           padding: 0px;
           background-color: transparent !important;
-          //@include transition(border-bottom 200ms ease-out);
-        }
+          -webkit-transition: border-bottom 200ms ease-out;
+          -moz-transition: border-bottom 200ms ease-out;
+          -ms-transition: border-bottom 200ms ease-out;
+          -o-transition: border-bottom 200ms ease-out;
+          transition: border-bottom 200ms ease-out; 
+                 }
         a.dd-title:hover {
           a.dd-title {
             border-bottom: 1px solid $red;
