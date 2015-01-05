@@ -14,6 +14,7 @@
 </head>
 {.if template.mobileStylesEnabled}{.or}<!-- Mobile Styles Disabled -->{.end}
 <body class="{squarespace.page-classes}{.section website}{.section logoImageUrl} logo-image{.or} site-title{.end}{.end}" id="{squarespace.page-id}">
+<div id="container">
 
   <div id="canvas">
 
@@ -144,7 +145,7 @@
 
   </div>
 
-  <div></div>
+  <div></div></div>
 
   {squarespace-footers}
 
