@@ -77,14 +77,14 @@
             </a>
           </li>
           <li>
-            <a class='lua-btn show-for-small' href='/app'>Download the App</a>
-            <a class='lua-btn large wire black hide-for-small' href='/signin'>Login</a>
+            <a class='lua-btn show-for-small' href='http://www.getlua.com/app'>Download the App</a>
+            <a class='lua-btn large wire black hide-for-small' href='http://www.getlua.com/signin'>Login</a>
           </li>
           <div class='clear show-for-small'></div>
           <ul class='nav navbar-nav navbar-right'>
             <li class='dropdown'>
               <li class='nav-link'>
-                <a class='dd-title'>
+                <a class='dd-title' data-toggle='dropdown' href='#'>>
                   PRODUCT
                 </a>
                 <ul class='dropdown-menu' id='main_dropdown'>
@@ -145,7 +145,7 @@
             </li>
             <li class='dropdown'>
               <li class='nav-link'>
-                <a class='dd-title'>
+                <a class='dd-title' data-toggle='dropdown' href='#'>>
                   COMPANY
                 </a>
                 <ul class='dropdown-menu' id='main_dropdown'>
