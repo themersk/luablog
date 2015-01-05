@@ -52,7 +52,6 @@
   </nav>
 </div>-->
 <div id='header-sticky'>
-  <div class='row'>
     <div class='twelve columns open-form non-printable'>
       <div class='row'>
         <nav class='navbar navbar-default' role='navigation'>
@@ -180,7 +179,6 @@
         </nav>
       </div>
     </div>
-  </div>
 </div>
 
 
