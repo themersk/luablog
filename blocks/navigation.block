@@ -84,7 +84,7 @@
           <ul class='nav navbar-nav navbar-right'>
             <li class='dropdown'>
               <li class='nav-link'>
-                <a class='dd-title' data-toggle='dropdown' href='#'>>
+                <a class='dd-title' data-toggle='dropdown' href='#'>
                   PRODUCT
                 </a>
                 <ul class='dropdown-menu' id='main_dropdown'>
@@ -145,7 +145,7 @@
             </li>
             <li class='dropdown'>
               <li class='nav-link'>
-                <a class='dd-title' data-toggle='dropdown' href='#'>>
+                <a class='dd-title' data-toggle='dropdown' href='#'>
                   COMPANY
                 </a>
                 <ul class='dropdown-menu' id='main_dropdown'>
