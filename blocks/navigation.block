@@ -89,15 +89,15 @@
                 </a>
                 <ul class='dropdown-menu' id='main_dropdown'>
                   <li role='presentation'>
-                    <a href='/features' role='menuitem' tabindex='-1'>Features</a>
+                    <a href='http://www.getlua.com/features' role='menuitem' tabindex='-1'>Features</a>
                   </li>
                   <li role='presentation'>
-                    <a href='/information-security' role='menuitem' tabindex='-1'>
+                    <a href='http://www.getlua.com/information-security' role='menuitem' tabindex='-1'>
                       Security
                     </a>
                   </li>
                   <li role='presentation'>
-                    <a href='/pricing' role='menuitem' tabindex='-1'>
+                    <a href='http://www.getlua.com/pricing' role='menuitem' tabindex='-1'>
                       Pricing
                     </a>
                   </li>
@@ -111,37 +111,37 @@
                 </a>
                 <ul class='dropdown-menu' id='main_dropdown' role='menu'>
                   <li role='presentation'>
-                    <a href='/solutions' role='menuitem' style='font-weight: 600; color: #152c40' tabindex='-1'>By Industry</a>
+                    <a href='http://www.getlua.com/solutions' role='menuitem' style='font-weight: 600; color: #152c40' tabindex='-1'>By Industry</a>
                   </li>
                   <li role='presentation'>
-                    <a href='/solutions/education' role='menuitem' tabindex='-1'>Education</a>
+                    <a href='http://www.getlua.com/solutions/education' role='menuitem' tabindex='-1'>Education</a>
                   </li>
                   <li role='presentation'>
-                    <a href='/solutions/event-mgt' role='menuitem' tabindex='-1'>Event Management</a>
+                    <a href='http://www.getlua.com/solutions/event-mgt' role='menuitem' tabindex='-1'>Event Management</a>
                   </li>
                   <li role='presentation'>
-                    <a href='/solutions/financial-services' role='menuitem' tabindex='-1'>Financial Services</a>
+                    <a href='http://www.getlua.com/solutions/financial-services' role='menuitem' tabindex='-1'>Financial Services</a>
                   </li>
                   <li role='presentation'>
-                    <a href='/solutions/healthcare' role='menuitem' tabindex='-1'>Healthcare</a>
+                    <a href='http://www.getlua.com/solutions/healthcare' role='menuitem' tabindex='-1'>Healthcare</a>
                   </li>
                   <li role='presentation'>
-                    <a href='/solutions/hospitality' role='menuitem' tabindex='-1'>Hospitality</a>
+                    <a href='http://www.getlua.com/solutions/hospitality' role='menuitem' tabindex='-1'>Hospitality</a>
                   </li>
                   <li role='presentation'>
-                    <a href='/solutions/logistics' role='menuitem' tabindex='-1'>Logistics</a>
+                    <a href='http://www.getlua.com/solutions/logistics' role='menuitem' tabindex='-1'>Logistics</a>
                   </li>
                   <li role='presentation'>
-                    <a href='/solutions/municipalities' role='menuitem' tabindex='-1'>Municipalities</a>
+                    <a href='http://www.getlua.com/solutions/municipalities' role='menuitem' tabindex='-1'>Municipalities</a>
                   </li>
                   <li role='presentation'>
-                    <a href='/solutions/security' role='menuitem' tabindex='-1'>Security</a>
+                    <a href='http://www.getlua.com/solutions/security' role='menuitem' tabindex='-1'>Security</a>
                   </li>
                 </ul>
               </li>
             </li>
             <li class='nav-link'>
-              <a class='dd-title' href='/resources'>RESOURCES</a>
+              <a class='dd-title' href='http://www.getlua.com/resources'>RESOURCES</a>
             </li>
             <li class='dropdown'>
               <li class='nav-link'>
@@ -150,23 +150,23 @@
                 </a>
                 <ul class='dropdown-menu' id='main_dropdown'>
                   <li role='presentation'>
-                    <a href='/about' role='menuitem' tabindex='-1'>About Us</a>
+                    <a href='http://www.getlua.com/about' role='menuitem' tabindex='-1'>About Us</a>
                   </li>
                   <li role='presentation'>
-                    <a href='/culture' role='menuitem' tabindex='-1'>Our Culture</a>
+                    <a href='http://www.getlua.com/culture' role='menuitem' tabindex='-1'>Our Culture</a>
                   </li>
                   <li role='presentation'>
                     <a href='http://blog.getlua.com' role='menuitem' tabindex='-1'>Blog</a>
                   </li>
                   <li role='presentation'>
-                    <a href='/careers' role='menuitem' tabindex='-1'>Careers</a>
+                    <a href='http://www.getlua.com/careers' role='menuitem' tabindex='-1'>Careers</a>
                   </li>
                   <li class='divider'></li>
                   <li role='presentation'>
-                    <a href='/about#contact-us' role='menuitem' tabindex='-1'>Contact Us</a>
+                    <a href='http://www.getlua.com/about#contact-us' role='menuitem' tabindex='-1'>Contact Us</a>
                   </li>
                   <li role='presentation'>
-                    <a href='/partners' role='menuitem' tabindex='-1'>Partner With Us</a>
+                    <a href='http://www.getlua.com/partners' role='menuitem' tabindex='-1'>Partner With Us</a>
                   </li>
                 </ul>
               </li>
