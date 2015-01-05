@@ -1,4 +1,4 @@
-<div id="topNav">
+<!--<div id="topNav">
   <nav class="main-nav" data-content-field="navigation">
     <ul>
     {.repeated section items}
@@ -50,7 +50,136 @@
   </ul>
   <div class="page-divider"></div>
   </nav>
+</div>-->
+
+<div class='twelve columns open-form non-printable' id='header-sticky'>
+  <div class='row'>
+    <nav class='navbar navbar-default' role='navigation'>
+      <div class='container-fluid'>
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class='navbar-header'>
+          <button class='navbar-toggle' data-target='#bs-example-navbar-collapse-1' data-toggle='collapse' type='button'>
+            <span class='icon-bar'></span>
+            <span class='icon-bar'></span>
+            <span class='icon-bar'></span>
+          </button>
+          <a href='/'>
+            <img class='logo'>
+          </a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class='collapse navbar-collapse' id='bs-example-navbar-collapse-1'>
+          <li>
+            <a class='lua-btn open-contact-form' id='get-lua-btn'>
+              Get Lua
+              <br>
+              <span>Start Your Free Trial</span>
+            </a>
+          </li>
+          <li>
+            <a class='lua-btn show-for-small' href='/app'>Download the App</a>
+            <a class='lua-btn large wire black hide-for-small' href='/signin'>Login</a>
+          </li>
+          <div class='clear show-for-small'></div>
+          <ul class='nav navbar-nav navbar-right'>
+            <li class='dropdown'>
+              <li class='nav-link'>
+                <a class='dd-title'>
+                  PRODUCT
+                </a>
+                <ul class='dropdown-menu' id='main_dropdown'>
+                  <li role='presentation'>
+                    <a href='/features' role='menuitem' tabindex='-1'>Features</a>
+                  </li>
+                  <li role='presentation'>
+                    <a href='/information-security' role='menuitem' tabindex='-1'>
+                      Security
+                    </a>
+                  </li>
+                  <li role='presentation'>
+                    <a href='/pricing' role='menuitem' tabindex='-1'>
+                      Pricing
+                    </a>
+                  </li>
+                </ul>
+              </li>
+            </li>
+            <li class='dropdown'>
+              <li class='nav-link'>
+                <a class='dd-title' data-toggle='dropdown' href='#'>
+                  SOLUTIONS
+                </a>
+                <ul class='dropdown-menu' id='main_dropdown' role='menu'>
+                  <li role='presentation'>
+                    <a href='/solutions' role='menuitem' style='font-weight: 600; color: #152c40' tabindex='-1'>By Industry</a>
+                  </li>
+                  <li role='presentation'>
+                    <a href='/solutions/education' role='menuitem' tabindex='-1'>Education</a>
+                  </li>
+                  <li role='presentation'>
+                    <a href='/solutions/event-mgt' role='menuitem' tabindex='-1'>Event Management</a>
+                  </li>
+                  <li role='presentation'>
+                    <a href='/solutions/financial-services' role='menuitem' tabindex='-1'>Financial Services</a>
+                  </li>
+                  <li role='presentation'>
+                    <a href='/solutions/healthcare' role='menuitem' tabindex='-1'>Healthcare</a>
+                  </li>
+                  <li role='presentation'>
+                    <a href='/solutions/hospitality' role='menuitem' tabindex='-1'>Hospitality</a>
+                  </li>
+                  <li role='presentation'>
+                    <a href='/solutions/logistics' role='menuitem' tabindex='-1'>Logistics</a>
+                  </li>
+                  <li role='presentation'>
+                    <a href='/solutions/municipalities' role='menuitem' tabindex='-1'>Municipalities</a>
+                  </li>
+                  <li role='presentation'>
+                    <a href='/solutions/security' role='menuitem' tabindex='-1'>Security</a>
+                  </li>
+                </ul>
+              </li>
+            </li>
+            <li class='nav-link'>
+              <a class='dd-title' href='/resources'>RESOURCES</a>
+            </li>
+            <li class='dropdown'>
+              <li class='nav-link'>
+                <a class='dd-title'>
+                  COMPANY
+                </a>
+                <ul class='dropdown-menu' id='main_dropdown'>
+                  <li role='presentation'>
+                    <a href='/about' role='menuitem' tabindex='-1'>About Us</a>
+                  </li>
+                  <li role='presentation'>
+                    <a href='/culture' role='menuitem' tabindex='-1'>Our Culture</a>
+                  </li>
+                  <li role='presentation'>
+                    <a href='http://blog.getlua.com' role='menuitem' tabindex='-1'>Blog</a>
+                  </li>
+                  <li role='presentation'>
+                    <a href='/careers' role='menuitem' tabindex='-1'>Careers</a>
+                  </li>
+                  <li class='divider'></li>
+                  <li role='presentation'>
+                    <a href='/about#contact-us' role='menuitem' tabindex='-1'>Contact Us</a>
+                  </li>
+                  <li role='presentation'>
+                    <a href='/partners' role='menuitem' tabindex='-1'>Partner With Us</a>
+                  </li>
+                </ul>
+              </li>
+            </li>
+          </ul>
+          <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+      </div>
+    </nav>
+  </div>
 </div>
+
 
 
 
