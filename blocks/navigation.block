@@ -51,8 +51,8 @@
   <div class="page-divider"></div>
   </nav>
 </div>-->
-
-<div class='twelve columns open-form non-printable' id='header-sticky'>
+<div id='header-sticky'>
+<div class='twelve columns open-form non-printable'>
   <div class='row'>
     <nav class='navbar navbar-default' role='navigation'>
       <div class='container-fluid'>
@@ -179,7 +179,7 @@
     </nav>
   </div>
 </div>
-
+</div>
 
 
 
