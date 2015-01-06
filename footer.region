@@ -1,1 +1,86 @@
-s
+<div class='section footer non-printable'>
+  <div class='row'>
+    <div class='three columns'>
+      <div class='footer-section'>
+        <h5>Essentials</h5>
+        <a href='http://www.getlua.com/features'>
+          <p>Product Tour</p>
+        </a>
+        <a href='http://www.getlua.com/pricing'>
+          <p>Pricing</p>
+        </a>
+        <a href='http://www.getlua.com/resources'>
+          <p>Resources</p>
+        </a>
+        <a href='http://www.getlua.com/information-security'>
+          <p>Security</p>
+        </a>
+      </div>
+    </div>
+    <div class='three columns'>
+      <div class='footer-section'>
+        <h5>News</h5>
+        <a href='http://blog.getlua.com/category/lua-in-the-news/'>
+          <p>Press</p>
+        </a>
+        <a href='http://blog.getlua.com'>
+          <p>Blog</p>
+        </a>
+        <a href='https://www.linkedin.com/company/lua-technologies'>
+          <p>LinkedIn</p>
+        </a>
+        <a href='https://twitter.com/getLua'>
+          <p>Twitter</p>
+        </a>
+        <a href='http://www.facebook.com/getLua'>
+          <p>Facebook</p>
+        </a>
+        <a href='https://plus.google.com/108019282300017762759' rel='publisher'>
+          <p>Google+</p>
+        </a>
+      </div>
+    </div>
+    <div class='three columns'>
+      <div class='footer-section'>
+        <h5>Support</h5>
+        <a href='http://www.getlua.com/about#contact-us'>
+          <p>Contact Us</p>
+        </a>
+        <a href='http://www.getlua.com/partners'>
+          <p>Partner With Us</p>
+        </a>
+        <a href='http://www.getlua.com/careers'>
+          <p>Careers</p>
+        </a>
+        <a href='http://www.getlua.com/termsofservice'>
+          <p>Terms of Service</p>
+        </a>
+        <a href='http://www.getlua.com/privacypolicy'>
+          <p>Privacy Policy</p>
+        </a>
+        <a href='http://www.getlua.com/attribution'>
+          <p>Attribution</p>
+        </a>
+      </div>
+    </div>
+    <div class='three columns'>
+      <div class='footer-section'>
+        <h5>Mobile Apps</h5>
+        <a href='https://itunes.apple.com/us/app/lua/id519581506?mt=8' target='blank'>
+          <img>
+        </a>
+        <a href='https://play.google.com/store/apps/details?id=com.getlua.lua' target='blank'>
+          <img>
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class='row' style='margin-top: 20px'>
+    <div class='twelve columns'>
+      <div class='footer-section'>
+        <p>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
