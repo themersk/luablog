@@ -1,5 +1,5 @@
-    <squarespace:block-field id="{squarespace.page-id}" columns="12" label="{collection.title} Footer Content" />
-
+<squarespace:block-field id="{squarespace.page-id}" columns="12" label="{collection.title} Footer Content" />
+</div>
 
 <div class='section footer non-printable'>
   <div class='row'>
@@ -94,7 +94,7 @@
 
 
 
-  <div></div></div>
+  <div></div>
 
   {squarespace-footers}
 
