@@ -29,34 +29,6 @@
 
     {.section website}
 
-      <div id="upper-logo">
-        <h1 class="logo" data-content-field="site-title">
-          <a href="/">{.if logoImageUrl}<img src="{logoImageUrl}?format=1500w" alt="{siteTitle}" />{.or}{siteTitle}{.end}</a>
-        </h1>
-      </div>
-      <script>
-      if (parseInt(Y.one('body').getComputedStyle('width'),10) <= 640) {
-        Y.use('squarespace-ui-base', function(Y) {
-          Y.one("#upper-logo .logo").plug(Y.Squarespace.TextShrink, {
-            parentEl: Y.one('#upper-logo')
-          });
-        });
-      }
-      </script>
-
-      {.section location}
-      <div class="site-info">
-        {.if addressLine1}<div class="site-address">{addressLine1}</div>{.or}<div class="site-address">Street Address</div>{.end}
-        {.if addressLine2}<div class="site-city-state">{addressLine2}</div>{.or}<div class="site-city-state">City, State, Zip</div>{.end}
-        {.if websiteSettings.contactPhoneNumber}<div class="site-phone">{websiteSettings.contactPhoneNumber}</div>{.or}<div class="site-phone">Phone Number</div>{.end}
-      </div>
-      {.or}
-      <div class="site-info">
-        <div class="site-address">Street Address</div>
-        <div class="site-city-state">City, State, Zip</div>
-        <div class="site-phone">Phone Number</div>
-      </div>
-      {.end}
 
       <div class="site-tag-line">
         {.if siteTagLine}<span>{siteTagLine}</span>{.end}
