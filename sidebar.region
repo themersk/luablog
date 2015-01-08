@@ -1,4 +1,4 @@
-<squarespace:block-field id="sidebar" />
+<squarespace:block-field id="sidebar" data-content-field="main-content"/>
 
 <section id="sidebar">
     <div class="four columns">

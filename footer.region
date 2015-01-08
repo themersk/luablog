@@ -1,4 +1,4 @@
-<squarespace:block-field id="{squarespace.page-id}" columns="12" label="{collection.title} Footer Content" />
+<squarespace:block-field id="{squarespace.page-id}" columns="12" label="{collection.title} Footer Content" data-content-field="main-content"/>
 </div>
 
 <div class='section footer non-printable'>
