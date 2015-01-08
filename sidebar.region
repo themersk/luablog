@@ -1,4 +1,7 @@
-<squarespace:block-field id="sidebar" columns="3" />
+<squarespace:block-field id="sidebar" />
+
+<section id="sidebar">
+    <div class="four columns">
 
 
       <!-- // CATEGORY NAV -->
@@ -17,3 +20,7 @@
         </nav>
       </div>
       {.end}{.end}{.end}
+
+    </div>
+  </section>
+</div>

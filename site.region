@@ -54,10 +54,11 @@
 
     </header>
 
+<div class="row">
+  <div class="eight columns">
     <div class="page-divider top-divider"></div>
-
     <section id="page" role="main" data-content-field="main-content">
 
       {squarespace.main-content}
-
     </section>
+</div>
