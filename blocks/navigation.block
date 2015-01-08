@@ -64,7 +64,7 @@
                 <span class='icon-bar'></span>
               </button>
               <a href='/'>
-                <img class='logo' src='/assets/header-logo.png'>
+                <img class='logo' src='/assets/blog-header-logo.png'>
               </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
