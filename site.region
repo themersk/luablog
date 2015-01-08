@@ -16,6 +16,13 @@
 <body class="{squarespace.page-classes}{.section website}{.section logoImageUrl} logo-image{.or} site-title{.end}{.end}" id="{squarespace.page-id}">
 <div id="container">
 
+<div class="row blogheader">
+<div class="twelve columns">
+  Communication  Matters
+</div>
+</div>
+
+
   <div id="canvas">
 
     <div id="mobileNav" class="">
@@ -26,12 +33,6 @@
     <div id="mobileMenuLink"><a>Menu</a></div>
 
     <header id="header" class="clear">
-
-<div class="row blogheader">
-<div class="twelve columns">
-  Communication  Matters
-</div>
-</div>
 
     {.end}
       <squarespace:navigation navigationId="mainNav" template="navigation" />
